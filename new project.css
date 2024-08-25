@@ -1,0 +1,48 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+    ul{position: fixed;top: 0;
+        z-index: 1;
+
+        height: 100px;
+          width :100%;
+            padding:40px ;
+            border: 2px solid rgb(230, 22, 192);
+            box-sizing: border-box;
+             background-color: rgb(249, 246, 246);
+              text-align: end; background-image:url(
+            https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDY-toN8ZQUYO7d650oIPfYEJv3z5h_rD3tRuBVUFHax6CHsIKwmNss0CE0Xk7T05NQmM&usqp=CAU
+        ) ;
+         background-repeat: x;
+        }
+body{background-image:url( https://img.pikbest.com/ai/illus_our/20230423/433bb383b21baa0e65d6224ddf72fa7a.jpg!w700wp)}
+li{padding: 20px;color: aqua;border:1px ;display: inline; }
+
+li:hover{color:rgb(208, 35, 35); cursor: pointer;}
+  
+main{width:50% ;height:140vh ;
+border:1px dotted  black;
+position: relative;top: 130px;
+left: 90px;padding: 110px 50px;color: blueviolet;
+ background-image: url(https://img.pikbest.com/wp/202345/disney-castle-kids-wallpaper_9593133.jpg!f305cw);}
+
+.aside-container{ width:100% ;
+height:130vh;
+position: absolute;top:0}
+
+aside{width: 250px;height: 50vh;
+position:sticky ;top: 300px;
+float:right ; border: 1px solid pink;
+background-image:url() ;}
+
+iframe{margin-left: 300px;margin-right:auto ;margin-top: 150px; }
+
+footer{height: 80px; width: 100%;
+     border: 10px solid rgb(147, 75, 121); margin: 5px;padding: 5px; ;}
+
+
+
+
+
+
